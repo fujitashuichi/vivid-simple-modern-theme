@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "publisher": "Shuichi Fujita",
   "engines": {
-    "vscode": "^1.108.1"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
