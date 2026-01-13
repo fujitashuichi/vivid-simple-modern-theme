@@ -21,6 +21,11 @@ Currently available via VSIX:
 3. Go to the Extensions view (`Ctrl+Shift+X`).
 4. Click the `...` (top right) and select **Install from VSIX...**.
 5. Select the downloaded file.
+6. Set the theme:
+     1. settings (Ctl + ,)
+     2. search "theme"
+     3. Workbench: Color Theme
+     4. select "Vivid Simple Dark Modern"
 
 ## 🎨 Theme Colors Used
 
