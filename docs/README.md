@@ -2,7 +2,7 @@
 
 A high-visibility VS Code theme designed to bridge the gap between browser-heavy workflows and intense coding sessions.
 
-![Preview](./images/screenshot_full.png)
+![Preview](./img/screenshot_full.png)
 
 ## 🌟 Key Features
 
