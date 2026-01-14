@@ -29,6 +29,6 @@
         "editorIndentGuide.activeBackground1": "#6060ddaa",
         "panel.border": "#6060ffaa",
         "panelTitle.activeBorder": "#ff3030dd",
-        "statusBar.border": "#6060ffaa",
-	},
+        "statusBar.border": "#6060ffaa"
+	}
 }
