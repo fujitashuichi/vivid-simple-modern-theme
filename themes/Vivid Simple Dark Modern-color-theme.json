@@ -1,5 +1,7 @@
 {
+    "$schema": "vscode://schemas/color-theme",
 	"name": "Vivid Simple Dark Modern",
+    "include": "vscode-theme://vscode.dark-modern/themes/dark_modern.json",
 	"colors": {
 		"editor.foreground": "#e0e0e0",
         "editor.lineHighlightBackground": "#40404080",
@@ -24,7 +26,10 @@
         "tab.activeBorder": "#6060ddaa",
 		"tab.activeBorderTop": "#6060ddaa",
         "tab.inactiveBackground": "#1a1a1a",
-        "editorIndentGuide.activeBackground1": "#6060ddaa"
+        "editorIndentGuide.activeBackground1": "#6060ddaa",
+        "panel.border": "#6060ffaa",
+        "panelTitle.activeBorder": "#ff3030dd",
+        "statusBar.border": "#6060ffaa",
 	},
 	"tokenColors": [
 		{
@@ -34,5 +39,14 @@
 			"fontStyle": ""
 			}
 		}
-	]
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vivid Simple Dark Modern",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vivid-simple-modern-theme-color-theme.json"
+            }
+        ]
+    }
 }
