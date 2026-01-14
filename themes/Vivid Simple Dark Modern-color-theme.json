@@ -31,22 +31,4 @@
         "panelTitle.activeBorder": "#ff3030dd",
         "statusBar.border": "#6060ffaa",
 	},
-	"tokenColors": [
-		{
-			"scope": "comment",
-			"settings": {
-			"foreground": "#70e070bb",
-			"fontStyle": ""
-			}
-		}
-	],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Vivid Simple Dark Modern",
-                "uiTheme": "vs-dark",
-                "path": "./themes/vivid-simple-modern-theme-color-theme.json"
-            }
-        ]
-    }
 }
