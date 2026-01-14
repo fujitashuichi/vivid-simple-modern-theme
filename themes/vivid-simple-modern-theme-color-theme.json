@@ -2,7 +2,6 @@
     "$schema": "vscode://schemas/color-theme",
     "name": "Vivid Simple Dark Modern",
     "include": "vscode-theme://vscode.dark-modern/themes/dark_modern.json",
-    "semanticHighlighting": true,
     "colors": {
         "editor.foreground": "#e0e0e0",
         "editor.lineHighlightBackground": "#40404080",
@@ -19,6 +18,7 @@
         "sideBarSectionHeader.background": "#252525",
         "sideBarSectionHeader.border": "#333333",
         "list.activeSelectionForeground": "#70e070",
+        "list.activeSelectionBackground": "#2a2d2e",
         "input.placeholderForeground": "#808080",
         "titleBar.activeBackground": "#101010",
         "titleBar.border": "#505050",
@@ -30,7 +30,39 @@
         "editorIndentGuide.activeBackground1": "#6060ddaa",
         "panel.border": "#6060ffaa",
         "panelTitle.activeBorder": "#ff3030dd",
-        "statusBar.border": "#6060ffaa"
+        "statusBar.border": "#6060ffaa",
+        "editor.background": "#1f1f1f",
     },
-    "semanticTokenColors": {}
+    "semanticHighlighting": true,
+    "semanticTokenColors": {
+        "variable": "#9CDCFE",
+        "variable.readonly": "#4FC1FF",
+        "variable.callable": "#DCDCAA",
+        "parameter": "#9CDCFE",
+        "function": "#DCDCAA",
+        "method": "#DCDCAA",
+        "type": "#4EC9B0",
+        "class": "#4EC9B0",
+        "interface": "#4EC9B0",
+        "enum": "#4EC9B0",
+        "property": "#9CDCFE",
+        "property.readonly": "#4FC1FF",
+        "keyword": "#C586C0",
+        "modifier": "#569CD6",
+        "namespace": "#4EC9B0",
+        "number": "#B5CEA8",
+        "string": "#CE9178",
+        "comment": "#6A9955",
+        "operator": "#D4D4D4"
+    },
+    "tokenColors": [
+        // --- TextMate 用のバックアップ配色 (セマンティックが効かない言語用) ---
+        { "scope": ["comment", "punctuation.definition.comment"], "settings": { "foreground": "#6A9955" } },
+        { "scope": ["keyword", "storage.type", "storage.modifier"], "settings": { "foreground": "#569CD6" } },
+        { "scope": ["string", "punctuation.definition.string"], "settings": { "foreground": "#CE9178" } },
+        { "scope": ["entity.name.function", "support.function"], "settings": { "foreground": "#DCDCAA" } },
+        { "scope": ["variable", "support.variable"], "settings": { "foreground": "#9CDCFE" } },
+        { "scope": ["constant.numeric"], "settings": { "foreground": "#B5CEA8" } },
+        { "scope": ["entity.name.type", "support.class"], "settings": { "foreground": "#4EC9B0" } }
+    ]
 }
