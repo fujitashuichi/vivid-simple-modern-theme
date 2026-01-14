@@ -28,14 +28,5 @@ Currently available via VSIX:
      3. Workbench: Color Theme
      4. select "Vivid Simple Dark Modern"
 
-## 🎨 Theme Colors Used
-
-| Part | Color | Purpose |
-| :--- | :--- | :--- |
-| **Activity Bar Border** | `#ff3030dd` (Red) | Clear workspace edge definition. |
-| **Side Bar Border** | `#6060ffaa` (Blue) | Distinct navigation area boundary. |
-| **Comments** | `#70e070bb` (Green) | Improved readability for code documentation. |
-| **Active Indent** | `#6060ddaa` (Blue) | Highlights the current code block structure. |
-
 ---
 Enjoy a more vivid and simpler coding experience!
