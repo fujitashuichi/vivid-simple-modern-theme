@@ -1,16 +1,16 @@
 {
     "$schema": "vscode://schemas/color-theme",
-	"name": "Vivid Simple Dark Modern",
+    "name": "Vivid Simple Dark Modern",
     "include": "vscode-theme://vscode.dark-modern/themes/dark_modern.json",
-	"colors": {
-		"editor.foreground": "#e0e0e0",
+    "colors": {
+        "editor.foreground": "#e0e0e0",
         "editor.lineHighlightBackground": "#40404080",
         "activityBar.background": "#151515",
         "activityBar.border": "#ff3030dd",
         "activityBar.activeBackground": "#00000000",
-		"activityBar.foreground": "#70e070aa",
-		"activityBar.inactiveForeground": "#868686",
-		"activityBar.activeBorder": "#0078d4",
+        "activityBar.foreground": "#70e070aa",
+        "activityBar.inactiveForeground": "#868686",
+        "activityBar.activeBorder": "#0078d4",
         "sideBar.background": "#1c1c1c",
         "sideBar.foreground": "#e0e0e0",
         "sideBar.border": "#6060ffaa",
@@ -24,11 +24,11 @@
         "statusBar.background": "#3f3f3f",
         "tab.activeBackground": "#2a2a2a",
         "tab.activeBorder": "#6060ddaa",
-		"tab.activeBorderTop": "#6060ddaa",
+        "tab.activeBorderTop": "#6060ddaa",
         "tab.inactiveBackground": "#1a1a1a",
         "editorIndentGuide.activeBackground1": "#6060ddaa",
         "panel.border": "#6060ffaa",
         "panelTitle.activeBorder": "#ff3030dd",
         "statusBar.border": "#6060ffaa"
-	}
+    }
 }

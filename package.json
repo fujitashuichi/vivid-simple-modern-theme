@@ -2,7 +2,7 @@
   "name": "vivid-simple-modern-theme",
   "displayName": "Vivid Simple Modern Theme",
   "description": "A high-visibility theme derived from the standard VS Code 'Dark Modern'.",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "publisher": "shuichi_fujita",
   "engines": {
     "vscode": "^1.80.0"
