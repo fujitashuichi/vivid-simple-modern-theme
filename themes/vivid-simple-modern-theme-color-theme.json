@@ -1,6 +1,8 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Vivid Simple Dark Modern",
+    "include": "vscode-theme://vscode.dark-modern/themes/dark_modern.json",
+    "semanticHighlighting": true,
     "colors": {
         "editor.foreground": "#e0e0e0",
         "editor.lineHighlightBackground": "#40404080",
@@ -29,5 +31,6 @@
         "panel.border": "#6060ffaa",
         "panelTitle.activeBorder": "#ff3030dd",
         "statusBar.border": "#6060ffaa"
-    }
+    },
+    "semanticTokenColors": {}
 }
