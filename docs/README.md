@@ -4,6 +4,14 @@ A high-visibility VS Code theme designed to bridge the gap between browser-heavy
 
 ![Preview](./img/screenshot_full.png)
 
+## 🌒 Design Philosophy / デザインコンセプト
+
+**English:**
+This theme is optimized for users who prefer low screen brightness or find overly colorful themes distracting. By focusing on high-contrast structural boundaries rather than excessive syntax highlighting, it ensures clear visibility regardless of your monitor's brightness settings. It is specifically crafted to support dark adaptation, providing a "Vivid, Simple, and Dark" experience that reduces eye strain during long sessions.
+
+**Japanese:**
+画面のブライトネス設定が低い方や、カラフルすぎるテーマが苦手な方に最適です。過度な色の装飾を抑え、境界線を強調することで、画面の明るさに左右されない視認性を追求しました。暗順応を妨げない配色を徹底的に検証した結果、この「鮮明でシンプルでダークなテーマ」が完成しました。
+
 ## 🌟 Key Features
 
 - **Seamless Migration from Dark Modern**: Built upon the foundation of VS Code's standard 'Dark Modern'. You can switch to this theme without any learning curve or visual discomfort.
