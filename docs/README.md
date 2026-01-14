@@ -6,11 +6,12 @@ A high-visibility VS Code theme designed to bridge the gap between browser-heavy
 
 ## 🌟 Key Features
 
-- **Vivid Boundaries**: High-contrast borders (Red for Activity Bar, Blue for Side Bar) to clearly define your workspace.
-- **Logical Coloring**:
-  - **Green Titles**: Sidebar titles and section headers are highlighted in green for instant navigation.
-  - **Clean Code**: Standard text is kept white/gray to reduce eye strain, while comments use a distinct green for better readability.
-- **Simple Modern Base**: Derived from the standard 'Dark Modern' to ensure familiarity with a professional edge.
+- **Seamless Migration from Dark Modern**: Built upon the foundation of VS Code's standard 'Dark Modern'. You can switch to this theme without any learning curve or visual discomfort.
+- **Improved Tab & UI Visibility**: Distinct boundaries around tabs and activity bars make it instantly clear which file is active, even in multi-window or browser-heavy workflows.
+- **Vivid Logic Boundaries**: 
+  - **Vivid Red**: Clearly marks the Activity Bar edge.
+  - **Cool Blue**: Defines the Sidebar and Active Indent guides.
+- **Professional & Clean**: While adding vital visual cues, headers and text remain in classic professional white/gray to keep your focus on the code.
 
 ## 🛠 Installation
 
@@ -26,5 +27,15 @@ Currently available via VSIX:
      2. search "theme"
      3. Workbench: Color Theme
      4. select "Vivid Simple Dark Modern"
+
+## 🎨 Theme Colors Used
+
+| Part | Color | Purpose |
+| :--- | :--- | :--- |
+| **Activity Bar Border** | `#ff3030dd` (Red) | Clear workspace edge definition. |
+| **Side Bar Border** | `#6060ffaa` (Blue) | Distinct navigation area boundary. |
+| **Comments** | `#70e070bb` (Green) | Improved readability for code documentation. |
+| **Active Indent** | `#6060ddaa` (Blue) | Highlights the current code block structure. |
+
 ---
 Enjoy a more vivid and simpler coding experience!
