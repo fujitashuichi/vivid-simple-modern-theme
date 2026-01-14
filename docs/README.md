@@ -16,7 +16,7 @@ This theme is optimized for users who prefer low screen brightness or find overl
 
 - **Seamless Migration from Dark Modern**: Built upon the foundation of VS Code's standard 'Dark Modern'. You can switch to this theme without any learning curve or visual discomfort.
 - **Improved Tab & UI Visibility**: Distinct boundaries around tabs and activity bars make it instantly clear which file is active, even in multi-window or browser-heavy workflows.
-- **Vivid Logic Boundaries**: 
+- **Vivid Logic Boundaries**:
   - **Vivid Red**: Clearly marks the Activity Bar edge.
   - **Cool Blue**: Defines the Sidebar and Active Indent guides.
 - **Professional & Clean**: While adding vital visual cues, headers and text remain in classic professional white/gray to keep your focus on the code.
